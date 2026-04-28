@@ -1,0 +1,14 @@
+# Moved to claude-custom-skills repo
+twitter-bookmarks-exporter/
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
