@@ -27,6 +27,8 @@
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Contributing](#contributing)
+- [Project Structure](#project-structure)
+- [Contributors](#contributors)
 - [License](#license)
 
 ---
@@ -178,6 +180,16 @@ ai-custom-skills/
     ├── ai-newsletter-prompt/
     └── ai-newsletter-prompt-chn/
 ```
+
+---
+
+## Contributors
+
+| Name | Role | GitHub |
+|------|------|--------|
+| **Jeff Yang** | Creator, Designer & Maintainer | [@j3ffyang](https://github.com/j3ffyang) |
+
+This project consolidates skills originally developed across three separate repositories. Contributions and feedback are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
