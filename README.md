@@ -2,6 +2,8 @@
 
 > Production-ready AI and automation skills for multiple platforms — covering content creation, data export, workflow automation, and intelligent task orchestration.
 
+**Created & Maintained by:** [Jeff Yang](https://github.com/j3ffyang)
+
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Total Skills](https://img.shields.io/badge/total%20skills-19-blue)](#platforms--skills-directory)
 

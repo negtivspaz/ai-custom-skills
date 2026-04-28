@@ -2,6 +2,8 @@
 
 Thank you for your interest in contributing! This repository hosts AI skills across multiple platforms. This guide covers universal contribution practices.
 
+**Maintained by:** [Jeff Yang](https://github.com/j3ffyang) (j3ffyang@gmail.com)
+
 **For platform-specific guidelines, see:**
 - [`claude-code/README.md`](./claude-code/README.md) — Claude Code skills
 - [`openclaw/README.md`](./openclaw/README.md) — OpenClaw skills  
@@ -11,12 +13,23 @@ Thank you for your interest in contributing! This repository hosts AI skills acr
 
 ## Table of Contents
 
+- [Maintainers](#maintainers)
 - [Before You Start](#before-you-start)
 - [Choosing Your Platform](#choosing-your-platform)
 - [General Skill Structure](#general-skill-structure)
 - [Testing & Validation](#testing--validation)
 - [Submitting a Pull Request](#submitting-a-pull-request)
 - [Code Review Process](#code-review-process)
+
+---
+
+## Maintainers
+
+| Name | Role | Contact |
+|------|------|---------|
+| **Jeff Yang** | Creator & Maintainer | [GitHub](https://github.com/j3ffyang) / [Email](mailto:j3ffyang@gmail.com) |
+
+**Special thanks** to contributors across all three platforms (Claude Code, OpenClaw, and Hermes) for building and maintaining these skills.
 
 ---
 
