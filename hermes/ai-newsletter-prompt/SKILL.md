@@ -10,7 +10,7 @@ metadata:
   hermes:
     tags: [AI, News, Newsletter]
     requires_toolsets: [web]
-    requires_tools: [web_search, web_fetch]
+    requires_tools: [web_search, web_extract]
     required_environment_variables:
       - name: BRAVE_API_KEY
         prompt: Enter your BRAVE API key
